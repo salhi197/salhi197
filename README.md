@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Ali Salhi</h1>
-<h3 align="center">A LARAVEL backend developer , passionate AI and DevOps</h3>
+<h3 align="center">A Laravel backend developer , passionate by AI and DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salhi197&label=Profile%20views&color=0e75b6&style=flat" alt="salhi197" /> </p>
 
